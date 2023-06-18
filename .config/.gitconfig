@@ -1,0 +1,11 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = Priyanka Sarkar
+#	email = priyankasarkar@Priyankas-MacBook-Pro.local
+[alias]
+	br = branch
+	ci = commit
+	cl = clone
+	st = status
+	co = checkout
